@@ -26,7 +26,7 @@ var mainWindow = null;
 var menu = null;
 var appIcon = null;
 
-const defaultHost = 'https://www.irccloud.com';
+const defaultHost = 'https://irccloud.mozilla.com';
 
 // TODO pull this from the outermost package.json
 app.setAppUserModelId('com.irccloud.desktop');

@@ -1,13 +1,13 @@
 {
-  "name": "irccloud-desktop",
-  "productName": "IRCCloud",
-  "description": "IRCCloud Desktop Client",
+  "name": "irccloud-desktop-for-mozilla",
+  "productName": "IRCCloud Mozilla",
+  "description": "IRCCloud Desktop Client for Mozilla",
   "author": {
     "name": "IRCCloud Ltd.",
     "email": "team@irccloud.com",
     "url": "https://www.irccloud.com"
   },
-  "repository": "https://github.com/irccloud/irccloud-desktop",
+  "repository": "https://github.com/kuoe0/irccloud-desktop-for-mozilla",
   "license": "Apache-2.0",
   "version": "0.4.0",
   "main": "app/main.js",
